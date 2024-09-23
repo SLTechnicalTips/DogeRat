@@ -5,7 +5,15 @@
 
 
 <p align="center">
-  <img src="\assets\images\apple-touch-icon.png" alt="Logo" />
+  <a href="https://sltechnicaltips.github.io/DogeRat/">
+    <img src="\assets\images\apple-touch-icon.png" alt="Logo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sltechnicaltips.github.io/DogeRat/">
+    <img src="\assets\images\web.png" alt="Website" />
+  </a>
 </p>
 
 ## Features
