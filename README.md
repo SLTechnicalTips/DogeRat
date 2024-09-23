@@ -2,7 +2,7 @@
 <p align="center">
   <i>A multifunctional Telegram based Android RAT without port forwarding</i>
 </p>
-
+ 
 
 <p align="center">
   <a href="https://sltechnicaltips.github.io/DogeRat/">
