@@ -24,26 +24,31 @@
 - ✉️ send sms with target device to all of his/her contacts
 - 👤 recive all target contacts
 - 💻 receive list of all installedd apps in target device
-- 📁 receive any file or folder from target device
-- 📁 delete any file or folder from target device
 - 📷 capture main and front camera
 - 🎙 capture microphone (with custom duration)
 - 📋 receive last clipboard text
 - ✅️ auto start after device boot
-- 🔐 Keylogger {Availbe in apk v1 and v2}
+- 🔐 Keylogger
 - ✨ Beautiful telegram bot interface
-- -🤖 Undetectable by antivirus
   ## DOGE RAT PAID VERSION FEATURES
-  🔐 Open any phising page in victim device
+- 🤖 Auto permisson  
+- 🔐Encrypt/ Decrypt after encryption victims will be not able to use their devices
+- 🖥️ Screenshot (get screenshot from your victim device)
+- 🗨️ spam message in all contacts after installation which you will set in apk
+- 🔐injection {inject appliactaion automatic with any login or any page unlimited }
+- 🔐 Open any phising page in victim device
 - 🖥️ Screenshot (get screenshot from your victim device)
 - 📒 Gallery puller (Get all photos available in gallery)
 - 🔔 notification reader
 - 🔔 notification sender (send custom notification that apper on target device with custom click link)
 - 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
--  🔤 Advance Keylogger
--  📁 PowerFull file manager {delete and Download Files}
+- 🔤 Advance Keylogger
+- 📁 receive any file or folder from target device
+- 📁 delete any file or folder from target device
+- 📁 PowerFull file manager
 - ✨ Beautiful telegram bot interface
 - 🤖 Undetectable by antivirus
+- 🤖and more ......
 <br>
 <h2>Requirements</h2>
 <ul>
@@ -55,12 +60,19 @@
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
+  
+<br>
+ <p></p> (You can use uptimerobot from replit.com to stop the app from stopping.)</p>
+
+  <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
+
+  <br>
+
   <p align="center">
   <a href="https://sltechnicaltips.github.io/DogeRat/">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
-  <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
   
 </ul>
 
@@ -178,7 +190,8 @@ fun getAppData(): AppData {
   Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
 
 <p align="center">
-  <a href="buymeacoffee.com/imesh_s_abeysinghe"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
+    <a href="https://buymeacoffee.com/imesh_s_abeysinghe/">
+    <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
 
 
