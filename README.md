@@ -1,13 +1,11 @@
-![Logo](https://wigmur.com/dogs/logo.png)
+
 <p align="center">
   <i>A multifunctional Telegram based Android RAT without port forwarding</i>
 </p>
 
 
-
-<h2 align="center">Panel Screenshot</h2>
 <p align="center">
-  <img src="https://wigmur.com/dogs/scr.jpg" alt="Logo" />
+  <img src="\assets\images\apple-touch-icon.png" alt="Logo" />
 </p>
 
 ## Features
