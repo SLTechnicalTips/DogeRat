@@ -1,3 +1,3 @@
-# dogeweb
+# Dogeweb
 this is just web source of our dogerat 
-https://shivaya-dav.github.io/dogeweb/
+https://SLTechnicalTips.github.io/Dogeweb/
