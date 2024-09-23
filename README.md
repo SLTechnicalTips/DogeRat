@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://sltechnicaltips.github.io/DogeRat/">
-    <img src="\assets\images\web.png" alt="Website" />
-  </a>
-</p>
-
 ## Features
 - 🔴 Real time
 - 🌐 custom web view
@@ -81,6 +75,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://sltechnicaltips.github.io/DogeRat/">
+    <img src="\assets\images\web.png" alt="Website" />
+  </a>
+</p>
 
 ## How to host server in Termux 
 <p>Run the following commands in Termux:</p>
