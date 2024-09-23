@@ -164,3 +164,14 @@ fun getAppData(): AppData {
   <b><i>Thank you for using Dogerat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
 
+<p align="center">
+<h1 align="center">Sponsorship</h1>
+
+<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
+  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
+
+<p align="center">
+  <a href="buymeacoffee.com/imesh_s_abeysinghe"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
+</p>
+
+
